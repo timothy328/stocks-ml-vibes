@@ -1,0 +1,27 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated data, reports, and secrets
+data/raw/
+data/processed/
+reports/generated/
+*.log
+.env
+.env.*
+!.env.example

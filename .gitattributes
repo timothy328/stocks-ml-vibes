@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.md text
+*.md linguist-documentation
+*.csv text
+*.json text
